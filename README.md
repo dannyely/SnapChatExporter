@@ -1,4 +1,4 @@
-# SnapChatExpoer
+# SnapChatExporter
 This repository is my code for mass exporting data from Snapchat to Google Photos - and embedding photos' date information.
 
 I used this code to successfully migrate my snapchat memories, 900+ of them, to google photos - and have their date information saved along with it.
